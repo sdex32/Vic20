@@ -8,6 +8,7 @@ Vic20 emulator written in Object Pascal fro Delphi or FreePascal
  
   there you can find out four projects (work as well for 64 bit)
 
+  Vic20_emulator - the code of emulator and some favorite games
   Vic20 - VCL project is for Delphi 10.4 
   Vic20_novcl - project for Delphi 10.4 without use of VCL
   Vic20_fpc - project for FreePascal Lazarus 2.0.10
