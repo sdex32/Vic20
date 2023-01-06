@@ -1,7 +1,12 @@
 # Vic20
-Vic20 emulator written in Object Pascal fro Delphi or FreePascal
+
+Vic20 emulator written in Object Pascal for Delphi or FreePascal
  
   Hello from the Bogi aka sdex32
+
+![vic20](https://user-images.githubusercontent.com/54273278/210998144-7c425efd-3871-466e-ac9d-229735b46642.png)
+
+![vic20g](https://user-images.githubusercontent.com/54273278/210998175-a8e78f18-8b54-4778-bfcb-bd5f32dac332.png)
 
   This is VIC20 emulator written in Pascal for **all my friends who love and use Pascal**. It is absolutely free.
   VIC20 was my first computer, and I am happy that i was part of that history.
